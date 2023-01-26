@@ -1,9 +1,15 @@
 {
-    "name": "Renamer Bot",
-    "description": "Telegram File Renamer Bot ",
-    "logo": "https://graph.org/file/91ab4b346dddd0652958c.jpg",
-    "keywords": ["Renamer Bot", "Mongo DB"],    
+    "name": "Telegram Files Store Bot",
+    "description": "A Telegram Files Store Bot in Pyrogram by @AbirHasan2005",
+    "keywords": [
+        "telegram",
+        "files",
+        "store",
+        "bot"
+    ],
     "repository": "https://github.com/Sahidmalik001/file_namerbot",
+    "website": "https://telegram.dog/AbirHasan2005",
+    "success_url": "https://t.me/Discovery_Updates",
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
